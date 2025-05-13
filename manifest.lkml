@@ -1,7 +1,7 @@
 
 
 constant: CONNECTION_NAME {
-  value: "mad-bigquery"
+  value: "mad_bigquery"
   export: override_required
 }
 
