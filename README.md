@@ -6,3 +6,4 @@ Get a comprehensive overview of your campaign spend, performance and audience ta
 * Make better decisions faster
 
 For detailed information including content and installation instructions, checkout the dedicated Looker Block for Meta [documentation](https://cloud.google.com/cortex/docs/looker-block-meta).
+edited by tomer ben tovim
